@@ -1,1 +1,1 @@
-https://lochanearthappengine.streamlit.app/
+https://lochan.streamlit.app/
